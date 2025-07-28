@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-"This line is from master branch" 
-=======
-"This line is from develop branch" 
->>>>>>> develop
+
+ 
+This line is from both master and develop branches
+
+
